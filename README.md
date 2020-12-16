@@ -3,6 +3,9 @@ This repository contains a tutorial about GAN's. Since their invention by Ian Go
 
 I have created this tutorial to learn and teach GAN's to the audience. My goal is to build various GAN architectures using TensorFlow 2 and use to for my own dataset. I have mainly used Vanilla GAN, DCGAN, CDCGAN, and pix2pix models in my tutorial. I have organized my tutorials as Labs.
 
+# Tutorial
+This tutorial is prepared for < href="http://www.cse.or.kr/">Korean Society Of Computational Science And Engineering</a>. The schedule for this years KSCSE can found <a href="http://www.cse.or.kr/board/conference/62">here</a>.
+
 # Reference
 My codes are mainly inherited from the following
 1) <a href="https://www.tensorflow.org/tutorials">TensorFlow2 tutorials</a>
